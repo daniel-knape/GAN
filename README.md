@@ -1,4 +1,14 @@
-# Generative Adversarial Network
+# Generative Adversarial Network  
+## Images  
+- The data source of the real images: [Birds Dataset](https://www.kaggle.com/gpiosenka/100-bird-species)
+### Real sample images  
+![Real samples](https://github.com/daniel-knape/GAN/blob/main/images/real_samples.png)  
+### DCGAN sample images  
+![DCGAN](https://github.com/daniel-knape/GAN/blob/main/images/dcgan_output.png)  
+### WGAN sample images  
+![WGAN](https://github.com/daniel-knape/GAN/blob/main/images/wgan_output.png)  
+### WGAN-GP sample images  
+![WGAN-GP](https://github.com/daniel-knape/GAN/blob/main/images/wgangp_output.png)
 ## Necessary steps in the Jupyter Notebook
 - To use the notebook, change the key_path variable to the path where your kaggle.json file is
 - The current dataset (Birds) needs a lot of epochs to show proper images. If you want to see good images earlier, then use a dataset like the Animefaces
