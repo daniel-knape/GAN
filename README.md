@@ -3,11 +3,11 @@
 - The data source of the real images: [Birds Dataset](https://www.kaggle.com/gpiosenka/100-bird-species)
 ### Real sample images  
 ![Real samples](https://github.com/daniel-knape/GAN/blob/main/images/real_samples.png)  
-### DCGAN sample images  
+### DCGAN sample images after 20 epochs    
 ![DCGAN](https://github.com/daniel-knape/GAN/blob/main/images/dcgan_output.png)  
-### WGAN sample images  
+### WGAN sample images after 20 epochs   
 ![WGAN](https://github.com/daniel-knape/GAN/blob/main/images/wgan_output.png)  
-### WGAN-GP sample images  
+### WGAN-GP sample images after 20 epochs   
 ![WGAN-GP](https://github.com/daniel-knape/GAN/blob/main/images/wgangp_output.png)
 ## Necessary steps in the Jupyter Notebook
 - To use the notebook, change the key_path variable to the path where your kaggle.json file is
